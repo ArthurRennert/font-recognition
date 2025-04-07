@@ -67,6 +67,7 @@ python classifying.py
 - Fully custom data pipeline from raw bounding box data
 - ResNet18 fine-tuning with strong generalization
 - Test Time Augmentation for improved performance
+- Model validation accuracy: **92.74%**
 
 ## 📬 Contact
 For questions or collaborations, feel free to contact me:
