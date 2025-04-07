@@ -17,6 +17,8 @@ This project implements a font classification system that identifies the font us
 ├── main.py                 # Training loop with class weights and early stopping
 ├── classifying.py          # Test Time Augmentation and CSV prediction output
 ├── hdf5_files/             # Contains train/val/test HDF5 datasets
+├── models/                 # Saved model weights (e.g., best_model.pth)
+└── results.csv             # Final predictions on test set
 ```
 
 ## 🧠 Model Architecture
